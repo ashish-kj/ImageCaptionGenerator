@@ -1,4 +1,4 @@
-# Project 3: Image Caption Generator using LLaVA via Ollama
+# Image Caption Generator using LLaVA via Ollama
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
