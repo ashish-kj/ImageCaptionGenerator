@@ -172,3 +172,38 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+
+# Virtual environment
+venv/
+.venv/
+env/
+*/__pycache__/
+*.pyc
+
+# IDE/Editor specific
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+# OS specific
+.DS_Store
+Thumbs.db
+
+# Build artifacts
+dist/
+build/
+*.egg-info/
+
+# Streamlit secrets (if used)
+.streamlit/secrets.toml
+
+# Ollama models (if stored locally in project - unlikely)
+# models/
+
+# Data / Uploads (optional, if you store them)
+# uploads/
+# data/
